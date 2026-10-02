@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "judul": "Re:ZERO -Starting Life in Another World-, Vol. 1",
+    "penulis": "Tappei Nagatsuki",
+    "kategori": "Light Novel",
+    "stok": 52
+  },
+  {
+    "id": 2,
+    "judul": "86—EIGHTY-SIX, Vol. 1",
+    "penulis": "Asato Asato",
+    "kategori": "Light Novel",
+    "stok": 18
+  },
+  {
+    "id": 3,
+    "judul": "Grimgar of Fantasy and Ash, Vol. 1",
+    "penulis": "Ao Jyumonji",
+    "kategori": "Light Novel",
+    "stok": 0
+  },
+  {
+    "id": 4,
+    "judul": "The Executioner and Her Way of Life, Vol. 1",
+    "penulis": "Mato Sato",
+    "kategori": "Light Novel",
+    "stok": 0
+  },
+  {
+    "id": 5,
+    "judul": "The Unwanted Undead Adventurer, Vol. 1",
+    "penulis": "Yu Okano",
+    "kategori": "Light Novel",
+    "stok": 0
+  },
+  {
+    "id": 6,
+    "judul": "Code: The Hidden Language of Computer Hardware and Software",
+    "penulis": "Charles Petzold",
+    "kategori": "Teknologi",
+    "stok": 23
+  },
+  {
+    "id": 7,
+    "judul": "The Soul of a New Machine",
+    "penulis": "Tracy Kidder",
+    "kategori": "Teknologi",
+    "stok": 16
+  },
+  {
+    "id": 8,
+    "judul": "Hackers: Heroes of the Computer Revolution",
+    "penulis": "Steven Levy",
+    "kategori": "Teknologi",
+    "stok": 37
+  },
+  {
+    "id": 9,
+    "judul": "The Order of Time",
+    "penulis": "Carlo Rovelli",
+    "kategori": "Sains",
+    "stok": 12
+  },
+  {
+    "id": 10,
+    "judul": "The Disappearing Spoon",
+    "penulis": "Sam Kean",
+    "kategori": "Sains",
+    "stok": 3
+  },
+  {
+    "id": 11,
+    "judul": "Entangled Life",
+    "penulis": "Merlin Sheldrake",
+    "kategori": "Sains",
+    "stok": 5
+  },
+  {
+    "id": 12,
+    "judul": "The Knowledge Illusion",
+    "penulis": "Steven Sloman & Philip Fernbach",
+    "kategori": "Psikologi",
+    "stok": 1
+  },
+  {
+    "id": 13,
+    "judul": "The Man Who Mistook His Wife for a Hat",
+    "penulis": "Oliver Sacks",
+    "kategori": "Psikologi",
+    "stok": 0
+  },
+  {
+    "id": 14,
+    "judul": "Thinking in Bets",
+    "penulis": "Annie Duke",
+    "kategori": "Psikologi",
+    "stok": 9
+  },
+  {
+    "id": 15,
+    "judul": "The Victorian Internet",
+    "penulis": "Tom Standage",
+    "kategori": "Sejarah",
+    "stok": 2
+  },
+  {
+    "id": 16,
+    "judul": "The Ghost Map",
+    "penulis": "Steven Johnson",
+    "kategori": "Sejarah",
+    "stok": 1
+  },
+  {
+    "id": 17,
+    "judul": "Longitude",
+    "penulis": "Dava Sobel",
+    "kategori": "Sejarah",
+    "stok": 5
+  },
+  {
+    "id": 18,
+    "judul": "Invisible Cities",
+    "penulis": "Italo Calvino",
+    "kategori": "Novel",
+    "stok": 2
+  },
+  {
+    "id": 19,
+    "judul": "The Employees",
+    "penulis": "Olga Ravn",
+    "kategori": "Novel",
+    "stok": 0
+  },
+  {
+    "id": 20,
+    "judul": "Convenience Store Woman",
+    "penulis": "Sayaka Murata",
+    "kategori": "Novel",
+    "stok": 7
+  }
+]
